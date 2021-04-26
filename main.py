@@ -1,0 +1,1 @@
+print("Hi! Don't Run main.py. Instead run 'pytest' for testing your code.\nJust remember that running pytest will take some time for this Problem Set!\nAfter you have correctly implemented your code you can uncomment the lines at the end of vigenere.py and substitution.py and run them (if you feel like it!)")

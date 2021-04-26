@@ -1,0 +1,204 @@
+{
+  "tests": [
+    {
+      "name": "test_vigenere1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_vigenere1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_vigenere2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_vigenere2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_vigenere3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_vigenere3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_vigenere4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_vigenere4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_vigenere5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_vigenere5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_vigenere6",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_vigenere6",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_vigenere7",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_vigenere7",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_vigenere8",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_vigenere8",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 5
+    },
+    {
+      "name": "test_vigenere9",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_vigenere9",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_vigenere10",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_vigenere10",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 4,
+      "points": 5
+    },
+    {
+      "name": "test_sub1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_sub1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_sub2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_sub2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_sub3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_sub3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_sub4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_sub4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_sub5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_sub5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_sub6",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_sub6",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_sub7",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_sub7",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_sub8",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_sub8",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 5
+    },
+    {
+      "name": "test_sub9",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_sub9",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test_sub10",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_sub10",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    }
+  ]
+}
